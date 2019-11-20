@@ -12,6 +12,6 @@ Daniel Alonso
 Efrén Sabater
 Pedro José Martínez
 Ivan Lopez
+Juan Diego Cabrera
 Alejandro Ortiz
 Pedro Antonio Sanchez Balibrea
-
