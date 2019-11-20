@@ -1,3 +1,3 @@
 # ejercicio1-actividades3-1920
 Carlos Blasco
-Ivan Mas MirandaIvan Mas MirandaIvan Mas Miranda
+Ivan Mas Miranda
