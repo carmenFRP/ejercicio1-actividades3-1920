@@ -17,3 +17,4 @@ Miguel Biete
 Juan Diego Cabrera
 Alejandro Ortiz
 Pedro Antonio Sanchez Balibrea
+Jaime Toribio López
